@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rock3t.Web.Api.Test", "Rock3t.Web.Api.Test\Rock3t.Web.Api.Test.csproj", "{C035EEDD-0E43-4515-9480-1A7A986871AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rock3t.Web.App.Test", "Rock3t.Web.App.Test\Rock3t.Web.App.Test.csproj", "{C9B79889-FD25-4710-BB49-CE3EC1F676FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C035EEDD-0E43-4515-9480-1A7A986871AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C035EEDD-0E43-4515-9480-1A7A986871AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C035EEDD-0E43-4515-9480-1A7A986871AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B79889-FD25-4710-BB49-CE3EC1F676FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B79889-FD25-4710-BB49-CE3EC1F676FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B79889-FD25-4710-BB49-CE3EC1F676FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B79889-FD25-4710-BB49-CE3EC1F676FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
